@@ -5,6 +5,11 @@ Dual-Context Language and BERT](https://www.aclweb.org/anthology/W19-3005.pdf), 
 
 If you have any questions regarding the paper please contact mmatero [at] cs.stonybrook.edu (PhD student) or has [at] cs.stonybrook.edu (Lab director). 
 
+
+# Details
+
+The repo holds the PyTorch model defintiion of our attenion-based LSTM network, which scored on a F1 of .50 on Task A data. Alternatively, one could use this class file to instantiate a dual-context variant, used for task B, which uses Task A data (suicide-context) and task C data (non-suicide context) as described in the paper. 
+
 # cite
 ```
 @inproceedings{matero2019suicide,
