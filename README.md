@@ -3,7 +3,7 @@
 This repository stores the deep learning based code for [Suicide Risk Assessment with Multi-level
 Dual-Context Language and BERT](https://www.aclweb.org/anthology/W19-3005.pdf), SBU-HLAB's 2019 CLPsych submission. All non-deep learning models used the [DLATK package](https://github.com/dlatk/dlatk) for quick iteration on logistic regression models. 
 
-If you have any questions regarding the paper please contact mmatero [at] cs.stonybrook.edu (PhD student) or has [at] cs.stonybrook.edu (Lab director). 
+If you have any questions regarding the paper please contact mmatero -at- cs [dot] stonybrook . [edu] (PhD student) or has -at- cs [dot] stonybrook . [edu] (Lab director). 
 
 
 # Details
